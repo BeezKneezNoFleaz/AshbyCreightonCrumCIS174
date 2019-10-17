@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Assignment_5_1_StarterCode/.vs
+/Assignment_5_1_StarterCode/CIS174_TestCoreApp/bin/Debug/netcoreapp2.1
+/Assignment_5_1_StarterCode/CIS174_TestCoreApp/obj
